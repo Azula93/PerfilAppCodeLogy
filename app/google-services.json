@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1092765165815",
+    "project_id": "lancaster-9228a",
+    "storage_bucket": "lancaster-9228a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092765165815:android:a762f057ff5b5fb85fcbf2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092765165815-8015s96vd75rr807v203nt3d3icv3p7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwo7391jV4YEvVrzlEKRSBBedcJPAJWHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092765165815-8015s96vd75rr807v203nt3d3icv3p7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
